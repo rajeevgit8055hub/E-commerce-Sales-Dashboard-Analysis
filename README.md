@@ -126,6 +126,5 @@ The approach can be scaled or customized for any E-commerce marketplace — from
 
 ## 🖼️ Project Screenshots
 
-![E-commerce Sales Dashboard Analysis JPG](./images/E-commerce%20Sales%20Dashboard%20Analysis.jpg "E-commerce Sales Dashboard Analysis - JPG")
-
-![E-commerce Sales Dashboard Analysis PNG](./images/E-commerce%20Sales%20Dashboard%20Analysis.png "E-commerce Sales Dashboard Analysis - PNG")
+![E-commerce Sales Dashboard Analysis.jpg](E-commerce Sales Dashboard Analysis.jpg)
+![E-commerce Sales Dashboard Analysis.png](E-commerce Sales Dashboard Analysis.png)
