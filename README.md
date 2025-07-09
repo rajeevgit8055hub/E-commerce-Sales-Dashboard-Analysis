@@ -26,15 +26,24 @@ This project was designed to solve these challenges by giving decision-makers a 
 
 Through detailed data cleaning, transformation, and visualization, the project delivered 10+ valuable business insights:
 
-• **Category-wise:** Clear view of top-performing vs. low-performing categories, helping businesses double down on what works.  
+• **Category-wise:** Clear view of top-performing vs. low-performing categories, helping businesses double down on what works. 
+
 • **Region-wise:** Identified which regions contribute the most and least to total revenue, supporting area-focused promotions.  
+
 • **Product-wise:** Highlighted individual best-sellers and products that need attention due to low or declining sales.  
+
 • **Actual vs Target:** Mapped actual sales against targets to measure success and detect shortfalls in time.  
+
 • **Company-wise:** Showed how each company or brand listed on the platform performs, to better manage partnerships.  
+
 • **Product Status & Pricing:** Tracked current stock availability and price points to plan restocking or price adjustments.  
-• **Payment Mode:** Analyzed customer payment preferences (COD, UPI, Card, Wallets) to improve checkout flows and offer incentives on preferred modes.  
+
+• **Payment Mode:** Analyzed customer payment preferences (COD, UPI, Card, Wallets) to improve checkout flows and offer incentives on preferred modes. 
+
 • **State-wise:** Broke down sales by state to spot local demand and plan inventory or delivery operations accordingly.  
+
 • **Gender-wise:** Segmented total sales by Male and Female customers, helping design targeted promotions.  
+
 • **City-wise:** Pinpointed top-selling cities, which is useful for hyperlocal advertising, logistics, and delivery optimization.
 
 All these insights help businesses answer the real questions: Where is money coming from? Where is it leaking? Which customer group is buying what? Where to focus next?
@@ -71,8 +80,11 @@ Direct digital ads and fast delivery services to top-performing cities to mainta
 ## 📊 Project Highlights
 
 • **Interactive Dashboard:** Clean, responsive visuals that allow drill-down by category, region, product, payment type, or customer group.  
-• **Excel Project:** Includes pivot tables, charts, dynamic summaries, and scenario analysis for managers to tweak assumptions and simulate changes.  
+
+• **Excel Project:** Includes pivot tables, charts, dynamic summaries, and scenario analysis for managers to tweak assumptions and simulate changes.
+
 • **Hands-On Skills:** Combines SQL for queries, Excel for transformation & calculations, and Power BI (or your chosen BI tool) for advanced visuals.  
+
 • **Real-World Scenario:** Designed to mirror actual E-commerce reporting requirements, not just theory.
 
 ---
@@ -114,7 +126,6 @@ The approach can be scaled or customized for any E-commerce marketplace — from
 
 ## 🖼️ Project Screenshots
 
-![E-commerce Dashboard JPG](./images/E-commerce%20Sales%20Dashboard%20Analysis.jpg)
+![E-commerce Sales Dashboard Analysis JPG](./images/E-commerce%20Sales%20Dashboard%20Analysis.jpg "E-commerce Sales Dashboard Analysis - JPG")
 
-![E-commerce Dashboard PNG](./images/E-commerce%20Sales%20Dashboard%20Analysis.png)
-
+![E-commerce Sales Dashboard Analysis PNG](./images/E-commerce%20Sales%20Dashboard%20Analysis.png "E-commerce Sales Dashboard Analysis - PNG")
