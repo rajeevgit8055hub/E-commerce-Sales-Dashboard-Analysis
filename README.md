@@ -1,4 +1,4 @@
-# 🚀 E-commerce Sales Dashboard & Excel Project
+# 🛍️ E-commerce Sales Dashboard & Excel Project
 
 I built a detailed interactive dashboard and a new Excel project on a real-world E-commerce dataset to uncover key business insights, highlight hidden issues, and help businesses make smarter, data-backed decisions.  
 This project combines data exploration, cleaning, visualization, and insight generation — showcasing how raw transactional data can be turned into clear strategies for revenue growth and operational efficiency.
